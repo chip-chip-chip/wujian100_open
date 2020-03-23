@@ -1,5 +1,3 @@
-![image text](https://github.com/chip-chip-chip/wujian100_open/blob/master/z_img/structure.png)
-
 read rtl code recording
 
 1. IO
@@ -135,3 +133,6 @@ cr_iu_top
   PAD_OSC_IO (EHS ELS)
   PAD_DIG_IO
   PAD_DIG_IO (MCURST JTAG_TCLK JTAG_TMS GPIO_0 ~  GPIO_31  PWM_FAULT PWM_CH0 ~ CH11 USI0_SCLK USI0_SD0 USI0_SD1 USI0_NSS USI1,USI2)
+  
+  
+  ![image text](https://github.com/chip-chip-chip/wujian100_open/blob/master/z_img/structure.png)

@@ -1,4 +1,5 @@
 read rtl code recording
+![image test](https://github.com/chip-chip-chip/wujian100_open/blob/master/z_img/structure.png)
 
 1. IO
   input           PIN_EHS;                        //External high speed osc clock        
